@@ -12,7 +12,7 @@ enum LadoGiro {
     Izquierda
 }
 
-//% weight=100 color=#0fbc11 icon="\uf1b9" block="Maqueen fácil"
+//% weight=100 color=#0fbc11 icon="\uf1b9" block="Lopequeen"
 namespace maqueenFacil {
 
     /**
